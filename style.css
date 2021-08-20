@@ -1,0 +1,190 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  /* Cards Styles */
+
+.github-main {
+    display: block;
+    
+    padding: 50px 0;
+    position: relative;
+    }
+    
+    .github-wrapper {
+    background: #fff;
+    max-width: 320px;
+    margin: 0 auto;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    border-radius: 40px;
+    /* border-radius: 0px 0px 30px 0px; */
+    -webkit-box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.5);
+    font-size: 0;
+    }
+    
+    .github-banner canvas {
+    display: block;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: repeat;
+    border-radius: 40px 40px 0 0;
+    }
+    
+    .github-dp {
+    border-radius: 40px;
+    width: 100%;
+    height: 100%;
+    max-width: 150px;
+    margin: 0 auto;
+    position: absolute;
+    top: -98px;
+    left: 0;
+    right: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-transition: 0.3s all ease-in;
+    -o-transition: 0.3s all ease-in;
+    transition: 0.3s all ease-in;
+    }
+    
+    .github-dp canvas {
+    display: block;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: repeat;
+    border-radius: 50%;
+    border: 1px solid #000;
+    }
+    
+    .github-name {
+    display: block;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+        margin-top: 1px;
+    }
+    
+    .github-name h2 {
+      margin: 2px auto;
+        font-size: 20px;
+      letter-spacing: 0.5px;
+      line-height: 1;
+      color: #2d303a;
+      margin: 0;
+    }
+    
+    .github-name h2 span {
+    display: block;
+    font-size: 13px;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    margin-top: 5px;
+    font-weight: 400;
+    }
+    
+    .github-followers-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    z-index: 5;
+    position: relative;
+    }
+    
+    
+    .github-follow h2 span {
+    color: #666;
+    font-size: 13px;
+    display: block;
+    margin-top: 5px;
+    font-weight: 300;
+    }
+    .github-button {
+      padding: 2px;
+    display: block;
+    z-index: 2;
+    position: relative;
+        margin-bottom: 20px;
+    }
+    
+    .github-button a {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      width: 240px;
+      height: 50px;
+      background: #e8c411;
+      color: #000;
+      margin: 0 auto;
+      border-radius: 40em;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      -webkit-transition: 0.3s all ease-in;
+      -o-transition: 0.3s all ease-in;
+      transition: 0.3s all ease-in;
+    }
+    
+    .github-bio p {
+    font-size: 14px;
+    line-height: 20px;
+    color: #666;
+    text-align: left;
+    display: block;
+    scroll-behavior: auto;
+    }
+    
+    .github-details {
+    display: block;
+    padding: 100px 30px 20px;
+    position: relative;
+    }
+    
+    .footer {
+      color: white;
+    }
+    
