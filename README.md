@@ -1,49 +1,20 @@
+<div align="center" style="margin-bottom:30px">
+  <img src="https://github.com/oscafrica/open-source-challenge-2021/blob/main/assets/oss-ch-header.png?raw=true" alt="OSCA Open Source Challenge Banner" width='auto' height='auto' />
+</div>
+
 # Welcome to OSCA Open Source Challenge 2021
 
+
+<!-- Badges  -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ced981e-cf8b-48e7-8b67-ac7dd947a13d/deploy-status)](https://app.netlify.com/sites/osca-opensource-challenge2021/deploys) [![GitHub issues](https://img.shields.io/github/issues/bhantsi/osca-opensource-challenge-2021?style=for-the-badge)](https://github.com/bhantsi/osca-opensource-challenge-2021/issues)  [![GitHub forks](https://img.shields.io/github/forks/bhantsi/osca-opensource-challenge-2021?style=for-the-badge)](https://github.com/bhantsi/osca-opensource-challenge-2021/network) [![GitHub stars](https://img.shields.io/github/stars/bhantsi/osca-opensource-challenge-2021?color=success&style=for-the-badge)](https://github.com/bhantsi/osca-opensource-challenge-2021/stargazers) [![GitHub license](https://img.shields.io/github/license/bhantsi/osca-opensource-challenge-2021?color=purple&style=for-the-badge)](https://github.com/bhantsi/osca-opensource-challenge-2021/blob/main/LICENSE)
+
+The Open Source Challenge 2021 aims to support the tech ecosystem in Africa to contribute to open source projects.
 ### This repo was created for beginners to contribute
 
-## Follow the steps below to contribute: 
--   Fork the repo to your GitHub
--   Clone it into your machine and cd into it
--   Upload your image in imgs folder & remane it with your name
--   Copy the ```code``` below and paste it in ```index.html```
 
 
-Replace the following with your details in the code below:
-- Your Name
-- Your Role
-- Link to your website or use #
+## Getting started
+Register [here](bit.ly/osca-oss-ch-2021)
 
-
-    <!-- Replace me with your name  -->
-            <div class="col">
-                <div class="github-wrapper">
-                    <div class="github-banner">
-                      <canvas
-                      width="120"
-                      height="50"
-                      style="background-image: url(./imgs/osca-banner.jpg)"
-                      ></canvas>
-                    </div>
-                    <div class="github-details">
-                      <div class="github-dp">
-                        <canvas
-                          width="150"
-                          height="150"
-                          <!-- replace user.png with your photo-name.jpg -->
-                          style="background-image: url('./imgs/user.png')"
-                        ></canvas>
-                      </div>
-                      <div class="github-name">
-                        <h2><b>Your Names</b><span>Your Role</span></h2>
-                      </div>
-                      <div class="github-button">
-                        <a href="#">Portfolio</a>
-                      </div>
-                      <div class="github-bio">
-                        <p style="text-align: center">Fun fact about you in 1 sentence</p>
-                      </div>
-                    </div>
-                  </div>
-                
-            </div>
+## Contributing
+Wanna be part of it? check [contribution guideline](/CONTRIBUTION.md/)
