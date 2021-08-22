@@ -14,7 +14,7 @@ The Open Source Challenge 2021 aims to support the tech ecosystem in Africa to c
 
 
 ## Getting started
-Register [here](bit.ly/osca-oss-ch-2021)
+Learn more about the challenge [here](https://github.com/oscafrica/open-source-challenge-2021)
 
 ## Contributing
-Wanna be part of it? check [contribution guideline](/CONTRIBUTION.md/)
+Wanna be part of it? check [contribution guideline](/CONTRIBUTING.md/)
