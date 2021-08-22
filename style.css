@@ -184,6 +184,20 @@
     position: relative;
     }
     
+
+    .social-media a {
+      font-size: 30px;
+      position: relative;
+      right: 80px;
+      color: #000000;
+      text-decoration: none;
+  }
+
+  .social-media a.fa-twitter { 
+    color: #00aced;
+}
+
+
     .footer {
       color: white;
     }
