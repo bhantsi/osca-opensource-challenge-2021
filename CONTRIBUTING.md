@@ -1,8 +1,8 @@
 ## Follow the steps below to contribute: 
 -   Fork the repo to your GitHub
 -   Clone it into your machine and cd into it
-- Crate your own branch ``` git checkout -b [Branch Name]```
--   Upload your image in imgs folder & remane it with your name
+- Create your own branch ``` git checkout -b [Branch Name]```
+-   Upload your image in imgs folder & rename it with your name
 -   Copy the ```code``` below and paste it in ```index.html```
 
 
